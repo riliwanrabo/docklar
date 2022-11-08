@@ -21,6 +21,7 @@ services:
 
   webserver:
     image: nginx:alpine
+    container_name: webserver
     restart: always
     tty: true
     ports:
