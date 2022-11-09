@@ -1,4 +1,4 @@
-# fincra-api-logs
+# Docklar
 
 Docklar: Dockerized Laravel Boilerplate
 
